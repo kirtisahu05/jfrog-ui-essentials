@@ -21,7 +21,7 @@
     "moment": "2.19.1",
     "moment-jdateformatparser": "^1.1.0",
     "angularjs-toaster": "*",
-    "bootstrap": "3.1.1",
+    "bootstrap": "3.4.1",
     "angular-hotkeys": "1.4.5",
     "angular-cookies": "1.3.13",
     "angular-file-upload": "1.1.5",
